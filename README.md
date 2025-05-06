@@ -58,7 +58,7 @@ This project is a deep dive into Sales and Financial performance for AtliQ Hardw
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
-Insights
+**Insights**
 
         🔸 Amazon led as the top customer with $82.1M in sales (2021).
 
