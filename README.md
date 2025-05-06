@@ -1,4 +1,33 @@
-## Sales Report :
+𝗔𝘁𝗹𝗶𝗤 𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲 - 𝗦𝗮𝗹𝗲𝘀 & 𝗙𝗶𝗻𝗮𝗻𝗰𝗲 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
+
+Excited to Share My Latest Excel Project!
+
+
+
+This project is a deep dive into Sales and Financial performance for AtliQ Hardware, using tools like:
+
+- ETL(Extract, Transform, Load)
+     - Extracted Raw CSV Data in PowerQuery.
+     - Handled missing values, duplicates and errors.
+     - Loaded clean data in PowerPivot.
+
+- Data Modeling
+     - Used Star Schema to connect tables.
+     - Created a data table to support time based analysis based on AtliQ's Fiscal cycle.
+       
+- PowerPivot & PivotTable
+     - Built interactive Pivot Tables.
+     - Used Power Pivot to define custom measures and optimize the model.
+
+- DAX (Data Analysis Exprssions)
+     - Created  measures including: Net Sales, Gross Margin, COGS.
+     - Aligned calculations with fiscal periods.
+  
+- Conditional Formatting
+     - To highlight key data points and trends for better reporting.
+
+
+- ## Sales Report :
 
 
 - **Project objective:** 
