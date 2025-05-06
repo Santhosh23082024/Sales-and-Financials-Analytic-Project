@@ -19,7 +19,7 @@ This project is a deep dive into Sales and Financial performance for AtliQ Hardw
      - Built interactive Pivot Tables.
      - Used Power Pivot to define custom measures and optimize the model.
 
-- DAX (Data Analysis Exprssions)
+- DAX (Data Analysis Expressions)
      - Created  measures including: Net Sales, Gross Margin, COGS.
      - Aligned calculations with fiscal periods.
   
