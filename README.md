@@ -58,6 +58,22 @@ This project is a deep dive into Sales and Financial performance for AtliQ Hardw
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
+Insights
+
+        🔸 Amazon led as the top customer with $82.1M in sales (2021).
+
+        🔸India delivered an outstanding performance with $161.3M in net 
+
+             sales (2021).
+
+        🔸AQ Mx NB product has the highest sales growth over the years.
+
+        🔸 16 new products were introduced in 2021.
+
+        🔸 The P&A division has the strongest sales performance 
+
+              with $338.4M
+
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
